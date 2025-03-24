@@ -1,4 +1,4 @@
-![waveform 2](https://github.com/user-attachments/assets/b81ab8f8-3df7-471f-8cc9-00e85857b469)# BOOLEAN_FUNCTION_MINIMIZATION
+
 
 **AIM:**
 
